@@ -1,4 +1,0 @@
-FROM ubuntu
-MAINTAINER name venu
-LABEL this is my first docker file
-RUN touch flm
